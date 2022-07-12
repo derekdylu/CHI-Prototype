@@ -16,6 +16,8 @@
 [Bb]uilds/
 [Ll]ogs/
 [Mm]emoryCaptures/
+FOVURP_test_BurstDebugInformation_DoNotShip/
+FOVURP_test_BackUpThisFolder_ButDontShipItWithYourGame/
 
 # Asset meta data should only be ignored when the corresponding asset is also ignored
 !/[Aa]ssets/**/*.meta
